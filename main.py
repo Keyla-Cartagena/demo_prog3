@@ -7,8 +7,12 @@ def multiplicacion(x,y):
 
 def division(x,y):
     return x/y
+def suma (x,y):
+    return x+y
 
-respuesta= sumar(5,7)
+respuesta= suma(5,7)
 print(respuesta)
 resultado=restar(7,7)
 print(resultado)
+respuesta = division(2.1)
+print(respuesta)
