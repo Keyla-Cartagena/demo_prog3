@@ -5,7 +5,13 @@ def restar(x,y):
 def multiplicacion(x,y):
     return x*y
 
-respuesta= sumar(5,7)
+def potenciacion (x,y):
+    return x**y
+
+def suma (x,y):
+    return x+y
+
+respuesta= suma(5,7)
 print(respuesta)
 resultado=restar(7,7)
 print(resultado)
